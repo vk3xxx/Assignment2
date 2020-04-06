@@ -8,7 +8,16 @@ ___
 
 ## David Jackson
 
-INSERT PERSONAL PARAGRAPH INFORMATION HERE
+Student ID - s3859010
+
+Email - s3859010@student.rmit.edu.au
+
+#### From Assignment 1
+
+Originally born in Adelaide, I moved to Victoria in late 2003 where I met my now wife in high school. During my schooling I was recommended to pursue Engineering as a career path as my ideal job was Inventor. I started a degree in Engineering at university and after some time I realised that my expectations for what I was hoping to achieve weren't being met. I then pursued and completed a traineeship in Engineering (Technical) at my current place of employment. I have continued to work there over the past 9 years improving my knowledge and role base and during this time I have also been fortunate enough to be blessed with a daughter who just started school. I enjoy many aspects of life, but one of my more interesting past hobbies is that from a young age I enjoyed playing lawn bowl. I started playing lawn bowls when I was around the age of 11 and really enjoyed the competitiveness and social aspects to the game. Perhaps the largest highlight from playing lawn bowls was when I competed in a state school competition and ended up second in the state for my age.
+profile
+
+As a consumer, IT has interested me from very young, particularly in the form of video games. During school I found myself soaking in all the IT subjects and completing projects very quickly. It was only a few years ago when I started managing more of the IT systems at work that I began to realise that I had a real passion to work in the IT industry. I didn't realise that it was more than just a hobby for me and have been considering completing a degree for some time. Due to health reasons I have been unable to start this journey until this year.
 
 ___
 
