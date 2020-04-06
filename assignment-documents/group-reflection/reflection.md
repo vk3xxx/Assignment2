@@ -1,0 +1,37 @@
+# Towards the end of the assignment, reflect on group participation
+
+## Mark Beacham
+
+INSERT PERSONAL REFLECTION PARAGRAPH HERE
+
+___
+
+## David Jackson
+
+INSERT PERSONAL REFLECTION PARAGRAPH HERE
+
+___
+
+## Ellie Brice
+
+INSERT PERSONAL REFLECTION PARAGRAPH HERE
+
+___
+
+## Bruno Gusmao
+
+INSERT PERSONAL REFLECTION PARAGRAPH HERE
+
+___
+
+## Jordan Kendall
+
+INSERT PERSONAL REFLECTION PARAGRAPH HERE
+
+___
+
+## MEMBER 6
+
+INSERT PERSONAL REFLECTION PARAGRAPH HERE
+
+___

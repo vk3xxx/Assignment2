@@ -1,0 +1,37 @@
+# Add your personal information paragraph in your associated section
+
+## Mark Beacham
+
+INSERT PERSONAL PARAGRAPH INFORMATION HERE
+
+___
+
+## David Jackson
+
+INSERT PERSONAL PARAGRAPH INFORMATION HERE
+
+___
+
+## Ellie Brice
+
+INSERT PERSONAL PARAGRAPH INFORMATION HERE
+
+___
+
+## Bruno Gusmao
+
+INSERT PERSONAL PARAGRAPH INFORMATION HERE
+
+___
+
+## Jordan Kendall
+
+INSERT PERSONAL PARAGRAPH INFORMATION HERE
+
+___
+
+## MEMBER 6
+
+INSERT PERSONAL PARAGRAPH INFORMATION HERE
+
+___
