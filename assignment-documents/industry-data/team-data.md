@@ -57,7 +57,9 @@ ___
 
 ## Bruno Gusmao
 
-INSERT PERSONAL SKILLS SUMMARY HERE
+The job that I chose was Software Developer. According to the Burning Glass data, Software Developer is on the list of Top Job Titles of 2017/ 2018. As per the Top Generic Skills in 2017/ 2018 the three highest skills on demand for a Software Developer position are: Communication Skills, Problem Solving and Teamwork/ Collaboration. With regards to the Top IT Skills 2017/ 2018 the Burning Glass data also shows that the three highest skills in greatest demand (SQL, JavaScript, JAVA) are compatible with the position I chose earlier.
+
+The three highest ranked IT-specific skills which are not in my required skill set according to the burning Glass data are: Project Management, SAP and Business Management. The three highest ranked general skills which are not in my required skill set are: Research, Leadership, Mentoring. 
 
 ___
 
