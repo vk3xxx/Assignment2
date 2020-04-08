@@ -29,7 +29,7 @@ ___
 
 ## Bruno Gusmao
 
-From Sao Paulo, Brazil. My student number is s3851527. I first came to Australia in 2014 with my wife to study English. We both fell in love with this country and decided to make Australia our new home. Since then, I have studied Building Design (Architectural) through Holmesglen Institute in Melbourne and got a job as an Architectural Draftsperson back in 2016. In 2018 we have moved down to Hobart. Portuguese is my native language, but I also speak a bit of Spanish. I`m currently trying to learn some French, but can`t find much time lately. My favourite hobbies are watching Football and playing Videogames. I have always had an interest in Technology but never got do any formal studies in this field. I believe that IT jobs will be in high demand in the future, as already happens, and I want to keep myself relevant to the job market.
+From Sao Paulo, Brazil. My student number is s3851527. I first came to Australia in 2014 with my wife to study English. We both fell in love with this country and decided to make Australia our new home. Since then, I have studied Building Design (Architectural) through Holmesglen Institute in Melbourne and got a job as an Architectural Draftsperson back in 2016. In 2018 we have moved down to Hobart. Portuguese is my native language, but I also speak a bit of Spanish. I am currently trying to learn some French, but cannot find much time lately. My favourite hobbies are watching Football and playing Videogames. I have always had an interest in Technology but never got do any formal studies in this field. I believe that IT jobs will be in high demand in the future, as already happens, and I want to keep myself relevant to the job market.
 
 ___
 
