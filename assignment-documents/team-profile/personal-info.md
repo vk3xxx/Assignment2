@@ -23,7 +23,9 @@ ___
 
 ## Ellie Brice
 
-INSERT PERSONAL PARAGRAPH INFORMATION HERE
+My Name is Ellie Brice and my student number is S3851560.
+I have lived in Adelaide all my life. I graduated high school at Annesley College and after graduation I struggled to decide which direction to take my career. I initially worked in sales, and then as a receptionist for a finance company, both of which I did not enjoy. I decided to become a technician for a large telecommunications company. I enjoy the challenge of investigating difficult faults, working with other people and working outside. Due to a decrease in workload and redundancies from the implementation of NBN, I have been considering a new career in IT, specifically in programming.  I am married to my wife Tamara and we have 3 cats. I spend my free time playing Dungeons and Dragons, playing board games with my friends and collecting Star Wars LEGO sets. I am member of the Events Management Team for the Adelaide Browncoats, a fan club of the TV show Firefly and film Serenity, where we plan movie screenings and fundraising events to raise money for charity. This year I participated in the Relay for Life and my team raised money for the Cancer Council. I enjoy fun-runs and obstacle courses, as I aim to improve my fitness and live a healthier lifestyle.
+I have always been interested in IT, and I am the unofficial IT person that other people at work turn to for help. My interest in programming stems from using programs that are unsuitable for the purpose they have been crudely adapted for, and wanting to know how to fix or improve them. I think technology should be easy to use and intuitive to the way people think. I have a certificate III in Telecommunications, and experience with: Copper cable and Coaxial jointing, cabling and fault finding, Structures cabling (Cat5 and Cat6), Optical Fibre splicing, Windows upgrades and rollout of new PC’s to staff and Networking and TCP/IP.
 
 ___
 
